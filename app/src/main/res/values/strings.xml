@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Killer Joke</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bt_reload">RELOAD</string>
+    <string name="edit_text_hint">Number jokes</string>
+    <string name="toast_msg_edit_null">Enter value</string>
+</resources>
