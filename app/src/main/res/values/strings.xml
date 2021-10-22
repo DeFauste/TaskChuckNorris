@@ -5,4 +5,6 @@
     <string name="bt_reload">RELOAD</string>
     <string name="edit_text_hint">Number jokes</string>
     <string name="toast_msg_edit_null">Enter value</string>
+    <string name="mn_fr_1_title">Joke</string>
+    <string name="mn_fr_2_title">Web</string>
 </resources>
