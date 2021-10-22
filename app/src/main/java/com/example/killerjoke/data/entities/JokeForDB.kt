@@ -10,8 +10,4 @@ class JokeForDB(val textJoke: String) : Serializable {
 
     @PrimaryKey(autoGenerate = true)
     var id = 0
-
-    constructor(id: Int, textJoke: String) : this(textJoke) {
-        this.id = id
-    }
 }
